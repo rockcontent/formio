@@ -38,8 +38,8 @@ How this version works
 
 General Notes
 -------------------
-AWS IP: 18.228.95.100
-AWS URL: ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
+ - AWS IP: 18.228.95.100
+ - AWS URL: ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
 
 Using Linux, to access the AWS server over SSH you need to change the `rc-forms.pem` to 600. 
 
