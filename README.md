@@ -38,12 +38,17 @@ How this version works
 
 ![](1RpaYBOwGE-luRXzZ1sFPrqKz2eBStlV2)
 
-General Notes
+How do I request a AWS server?
 -------------------
- - AWS IP: 18.228.95.100
- - AWS URL: ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
 
-Using Linux, to access the AWS server over SSH you need to change the `rc-forms.pem` to 600. 
+You have to ask to Rafael Castelli. Explain all what you need and he will do his best.
+
+Castelli will send an e-mail with all information like IP, host, ssh key, etc...
+
+Problem to acces SSH using Linux? keep reading...
+-------------------
+
+Using Linux, to access the AWS server over SSH you need to change the `rc-forms.pem` permission to 600. 
 
 ```
 chmod rc-forms.pem 600
@@ -54,3 +59,21 @@ After this, you can access with something like
 ```
 ssh -i "~/rc-forms.pem" ubuntu@ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
 ```
+
+![](https://media.giphy.com/media/5nj50dM3nntNResdKo/giphy.gif)
+
+How to deploy my crazy AWS URL to a subdomain.rockcontent.com
+-------------------
+
+Once again, text to Castelli with the port number that will be expose, subdomain name and that is it. 
+
+Castelli deserve a hug, don't you think?
+
+![](https://media.giphy.com/media/t7t6PvAXCF731lQrTq/giphy.gif)
+
+General Notes
+-------------------
+ - AWS IP: 18.228.95.100
+ - AWS URL: ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
+
+
