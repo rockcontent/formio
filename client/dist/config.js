@@ -1,6 +1,6 @@
 
-var APP_URL = 'http://localhost:8081';
-var API_URL = 'http://localhost:8081';
+var APP_URL = 'https://forms.rockcontent.com';
+var API_URL = 'https://forms.rockcontent.com';
 
 
 // Parse query string

@@ -1,6 +1,6 @@
 
-var APP_URL = 'http://localhost:8081';
-var API_URL = 'http://localhost:8081';
+var APP_URL = 'http://ec2-18-228-95-100.sa-east-1.compute.amazonaws.com:8081';
+var API_URL = 'http://ec2-18-228-95-100.sa-east-1.compute.amazonaws.com:8081';
 
 
 // Parse query string
