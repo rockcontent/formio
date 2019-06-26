@@ -47,4 +47,8 @@ Using Linux, to access the AWS server over SSH you need to change the `rc-forms.
 chmod rc-forms.pem 600
 ```
 
-After this, you can access with something lik `ssh -i "~/rc-forms.pem" ubuntu@ec2-18-228-95-100.sa-east-1.compute.amazonaws.com`
+After this, you can access with something like 
+
+```
+ssh -i "~/rc-forms.pem" ubuntu@ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
+```
