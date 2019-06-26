@@ -5,3 +5,4 @@ client*
 app*
 npm-debug.log
 config/default.json
+rc-tools/dump/formioapp/*
