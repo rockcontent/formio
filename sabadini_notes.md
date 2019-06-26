@@ -31,12 +31,20 @@ If you need/want to access the production env, please fill this form: https://ro
 
 ![](https://media.giphy.com/media/fHijubGxuFNFbdpOe1/giphy.gif)
 
-How will works
+How this version works
 -------------------
 
-
+![](1RpaYBOwGE-luRXzZ1sFPrqKz2eBStlV2)
 
 General Notes
 -------------------
 AWS IP: 18.228.95.100
 AWS URL: ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
+
+Using Linux, to access the AWS server over SSH you need to change the `rc-forms.pem` to 600. 
+
+```
+chmod rc-forms.pem 600
+```
+
+After this, you can access with something lik `ssh -i "~/rc-forms.pem" ubuntu@ec2-18-228-95-100.sa-east-1.compute.amazonaws.com`
