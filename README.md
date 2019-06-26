@@ -1,4 +1,6 @@
-A simple doc with all what I did to run this project local and in a cloud.
+A simple doc with all what I did to run this project local and in the cloud.
+
+![](https://media.giphy.com/media/cIW1XzYs2fYK5EneDA/giphy.gif)
 
 Steps
 -------------------
@@ -29,7 +31,7 @@ https://forms.rockcontent.com
 
 If you need/want to access the production env, please fill this form: https://rockers.rockcontent.com/wiki/forms-rockcontent-acesso/
 
-![](https://media.giphy.com/media/fHijubGxuFNFbdpOe1/giphy.gif)
+![](https://media.giphy.com/media/2fUHEynZu3cI8u0Pak/giphy.gif)
 
 How this version works
 -------------------
