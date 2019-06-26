@@ -16,7 +16,11 @@ If you will run over another address, read the next steps:
 5) Over AWS server, I did change APP_URL and API_URL in ./app/dist/config.js file to 'https://forms.rockcontent.com'.
 6) and APP_URL and API_URL in ./client/dist/config.js to 'http://ec2-18-228-95-100.sa-east-1.compute.amazonaws.com:8081'. 
 
-Notes
+'Production' access
+-------------------
+https://forms.rockcontent.com
+
+General Notes
 -------------------
 AWS IP: 18.228.95.100
 AWS URL: ec2-18-228-95-100.sa-east-1.compute.amazonaws.com
