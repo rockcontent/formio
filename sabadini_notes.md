@@ -8,7 +8,7 @@ Steps
 
 3) `npm start`
 
-**   Here, you will configure the project in the command line.**
+**Here, you will configure the project in the command line.**
 
  - Take a look at README.md and install all what you have to install.
  - The instalation will use the default mongo configuration as localhost. No password needed.
@@ -30,6 +30,11 @@ https://forms.rockcontent.com
 If you need/want to access the production env, please fill this form: https://rockers.rockcontent.com/wiki/forms-rockcontent-acesso/
 
 ![](https://media.giphy.com/media/fHijubGxuFNFbdpOe1/giphy.gif)
+
+How will works
+-------------------
+
+
 
 General Notes
 -------------------
